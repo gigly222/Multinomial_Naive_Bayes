@@ -4,7 +4,7 @@
 Multinomial Naive Bayes Text Classification
 **********************************************
 
--This assignment was written in Python 3.5.2.
+-Written in Python 3.5.2.
 -Pycharm2016.2.3 was used for development.
 -I used nltk to remove stop words and stem my documents. The following link contains instructions on how to downlaod and install: http://www.nltk.org/install.html
 -The bag of words model was created using a collections object from python. 
